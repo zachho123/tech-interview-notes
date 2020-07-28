@@ -1,7 +1,7 @@
 # Technical Interview Prep
 
 ## Data Structures
-- Linked Lists
+- [Linked Lists](./src/data-structures/linked-lists/README.md)
 - Binary Trees
 - Tries
 - Stacks
