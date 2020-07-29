@@ -13,7 +13,7 @@ The last node of a linked list is called the **tail** and its pointer points to 
 ### Pros
 
 - Dynamic size
-- Efficient insertion and removal from any position during iteration
+- Efficient inserts and removes
 - More complex variants allow efficient insertion/removal at arbitrary points
 
 ### Cons
@@ -25,27 +25,7 @@ The last node of a linked list is called the **tail** and its pointer points to 
     - Because Linked Lists are not stored in contiguous memory, there is no locality of reference in regards to caching.
 - Extra memory required for pointer for each element
 
-## Basic Operations
-
-### Insertion
-
-```javascript
-
-```
-
-### Search
-
-```javascript
-
-```
-
-### Removal
-
-```javascript
-
-```
-
-## Time Complexity
+## Time Complexity of Operations
 
 - Access: O(n)
 - Search: O(n)
@@ -56,7 +36,7 @@ The last node of a linked list is called the **tail** and its pointer points to 
 
 - O(n)
 
-## Tips and Tricks
+## Common Questions & Tips and Tricks
 
 ### Runner Method
 

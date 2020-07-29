@@ -1,0 +1,14 @@
+# files
+
+
+# dependencies
+/node_modules
+
+# testing
+
+
+# production
+
+
+#misc
+.DS_Store
