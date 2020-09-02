@@ -4,7 +4,7 @@
 - Arrays
 - Binary Trees
 - Hash Tables
-- [Linked Lists](./src/data-structures/linked-lists/linked-list.md)
+- [Linked Lists](./src/data-structures/linked-lists/README.md)
 - Queues
 - Stacks
 - Tries
