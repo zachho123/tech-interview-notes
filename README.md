@@ -1,29 +1,45 @@
 # Technical Interview Prep
 
 ## Data Structures
-- [Linked Lists](./src/data-structures/linked-lists/README.md)
-- Binary Trees
-- Tries
-- Stacks
-- Queues
 - Arrays
+- Binary Trees
 - Hash Tables
+- [Linked Lists](./src/data-structures/linked-lists/README.md)
+- Queues
+- Stacks
+- Tries
 
 ## Algorithms
 - BFS
-- DFS
 - Binary Search
+- DFS
 - Merge Sort
 - Quick Sort
-- Tree Insert/Find/etc.
+- Tree Operations
 
 ## Concepts
+
+### General
+- Big-O Time/Space
 - Bit Manipulation
-- Singleton Design Pattern
 - Factory Design Pattern
 - Memory (Stack vs. Heap)
 - Recursion
-- Big-O Time/Space
+- Singleton Design Pattern
+
+### Distributed Computing
+- Distributed Caching
+- Load Balancing
+- Map Reduce
+- Service-Oriented Architecture
+
+### Operating Systems
+- Memory Management
+- Multithreading
+- Paging
+- Processes
+- Synchronization
+- Threads
 
 ## Top Leetcode Questions
 - LRU
